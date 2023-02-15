@@ -20,8 +20,8 @@ package api
 import (
 	"bufio"
 	"github.com/antigloss/go/logger"
-	"github.com/marcgauthier/server/config"
-	"github.com/marcgauthier/server/database"
+	"github.com/Wilks2222/config"
+	"github.com/Wilks2222/database"
 	"net"
 	"os"
 	"strconv"
