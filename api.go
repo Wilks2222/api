@@ -1,6 +1,6 @@
 package api
 
-/* This API receive request to get status of Prove and return the value.
+/* This API receive request to get status of Probe and return the value.
 
    Request are done over TCP by sending the ID of the Probe follow by line feed /n.
    the API return the following values:
